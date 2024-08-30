@@ -20,9 +20,7 @@ public class User {
 
 	@GetMapping(value = "/item")
     public String getItems(){
-        return "get all items list";
+        return "get all items list2222222222222222222222";
     }
-	
-	//1111111111111111111111111111111111
 
 }
